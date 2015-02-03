@@ -8,5 +8,6 @@ A Parser for zipped Agoda hotel data csv files
 License
 -------
 Copyright (c)2015 by Frode Egeland <egeland@gmail.com.REMOVETHISBIT>
+
 Released under the GNU GPL v3 - see LICENSE file
 
